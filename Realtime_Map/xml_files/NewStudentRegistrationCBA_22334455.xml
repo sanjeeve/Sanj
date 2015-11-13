@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Event>
+<EventType>NewStudentRegistrationCBA</EventType>
+<EventTime>03/05/2015 16:09:53</EventTime>
+<PublicDetail>
+<ContactCountry>United Kingdom</ContactCountry>
+<VenueCountry></VenueCountry>
+</PublicDetail><PrivateDetail>
+<ContactId>22334455</ContactId>
+<FirstName>Laura</FirstName>
+<LastName>Harvey</LastName>
+<VenueName></VenueName>
+<ExamSubject></ExamSubject>
+</PrivateDetail>
+</Event>

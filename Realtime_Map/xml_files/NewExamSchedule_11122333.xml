@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Event>
+<EventType>NewExamSchedule</EventType>
+<EventTime>03/04/2015 15:18:34</EventTime>
+<PublicDetail>
+<ContactCountry></ContactCountry>
+<VenueCountry>United States of America</VenueCountry>
+</PublicDetail><PrivateDetail>
+<ContactId>11122333</ContactId>
+<FirstName>Sanj</FirstName>
+<LastName> Chand</LastName>
+<VenueName>KC Test Centre 04</VenueName>
+<ExamSubject>C04 Fundamentals of Business Economics</ExamSubject>
+</PrivateDetail>
+</Event>

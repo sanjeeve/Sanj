@@ -1,0 +1,57 @@
+.navbar-default {
+    background: #fff !important;
+    border-color: #d92465 !important;
+}
+.navbar-brand {
+    height: auto !important;
+    padding: 15px 15px !important;
+}
+.map{ 
+/*    padding-top:55px;*/
+}
+
+.heading {
+    font-size: 14px;
+    margin: 2px 0px 4px;
+    padding-bottom: 4px;
+    border-bottom:1px solid #000;
+}
+
+.pin-info {
+    //position: fixed;
+    bottom: 40px;
+/*    border-bottom: 1px solid #999;
+    border-top: 1px solid #999;*/
+    background: #fff;
+    color:  #4D4D4F;
+    padding: 10px 30px;
+    width: 100%;
+    text-align: left;
+    padding-left: 15%;
+    background: #d0c4b6 !important;
+}
+
+ul#list-items {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.logo-bar{
+	position:fixed;
+	top:25px;
+	left:25px;
+	z-index:1001;
+}
+
+.logo-img{
+	float:left;
+}
+
+.logo-text{
+	font-family:Helvetica;
+	font-size:14px;
+	font-weight:bold;
+	color:#666;
+	padding:8px 0 0 15px;
+	float:left;
+}
